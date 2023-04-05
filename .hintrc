@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/structure": [
+      "default",
+      {
+        "list": "off"
+      }
+    ],
+    "highest-available-document-mode": "off",
+    "detect-css-reflows/composite": "off"
+  }
+}
